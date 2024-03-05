@@ -1,6 +1,8 @@
 import React from 'react'
 
 const NewsLetter = () => {
+  console.log("sd")
+
   return (
     <section className=" bg-left p-8 bg-white">
   <div className="m-4 grid grid-cols-1 gap-3 md:grid-cols-2">
